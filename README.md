@@ -1,1 +1,1 @@
-# dashboard
+# sample.in
